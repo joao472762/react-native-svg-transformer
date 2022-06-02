@@ -37,6 +37,8 @@ Make sure that you have installed the `react-native-svg` library:
 
 ```sh
 yarn add --dev react-native-svg-transformer
+or 
+npm install --dev react-native-svg-transformer
 ```
 
 ### Step 3: Configure the react native packager
